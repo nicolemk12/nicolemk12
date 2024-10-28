@@ -1,7 +1,3 @@
-Here's the updated README file with Python, CSS, and SQL added to your tech stack:
-
----
-
 # 👋 Hi, I'm Nicole
 
 ### 🌍 Internationale Medieninformatik Student & Aspiring Fullstack Developer

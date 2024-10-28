@@ -18,7 +18,7 @@ I'm a student specializing in *Internationale Medieninformatik* and currently tr
 ![SQL](https://img.shields.io/badge/sql-%234C4C4C.svg?style=for-the-badge&logo=database&logoColor=white)
 
 - **Tools & Frameworks**:  
-With my growing expertise in both front and backend development, I’m expanding my knowledge in frameworks and libraries essential for a fullstack role. Currently, I'm delving into technologies like Node.js and React, and I’m eager to learn more about database management and cloud computing.
+With my growing expertise in both front and backend development, I’m expanding my knowledge in frameworks and libraries essential for a fullstack role. Currently, I'm delving into technologies like Node.js and React.
 
 ## 🌐 Connect with Me!
 Feel free to reach out and connect—I love meeting new people in the tech space, and I’m always open to discussing potential collaborations or new opportunities!  
@@ -27,6 +27,4 @@ Feel free to reach out and connect—I love meeting new people in the tech space
 ## 🔥 Stats & Visits
 [![Profile Views](https://visitcount.itsvg.in/api?id=nicolemk12&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-This updated README now highlights your proficiency in Python, CSS, and SQL as part of your tech stack.

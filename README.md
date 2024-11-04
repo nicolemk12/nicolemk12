@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nicole
 
-### 🌍 Internationale Medieninformatik Student & Aspiring Fullstack Developer
+### 🌍 International Media and Computing Student & Aspiring Fullstack Developer
 
-I'm a student specializing in *Internationale Medieninformatik* and currently transitioning from frontend development to fullstack engineering! I’m passionate about building web applications, exploring new tech, and contributing to meaningful projects. 
+I'm a student specializing in *International Media and Computing* and currently transitioning from frontend development to fullstack engineering! I’m passionate about building web applications, exploring new tech, and contributing to meaningful projects. 
 
 ## 🧩 Tech Stack
 - **Languages**:  

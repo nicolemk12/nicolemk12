@@ -20,7 +20,4 @@ With my growing expertise in both front and backend development, I’m expanding
 Feel free to reach out and connect—I love meeting new people in the tech space, and I’m always open to discussing potential collaborations or new opportunities!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicole-mk12) 
 
-## 🔥 Stats & Visits
-[![Profile Views](https://visitcount.itsvg.in/api?id=nicolemk12&icon=0&color=0)](https://visitcount.itsvg.in)
-
 

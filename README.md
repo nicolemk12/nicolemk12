@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Nicole
+# 👋🏾 Hi, I'm Nicole
 
 ### 🌍 International Media and Computing Student & Aspiring Fullstack Developer
 
 I'm a student specializing in *International Media and Computing* and currently transitioning from frontend development to fullstack engineering! I’m passionate about building web applications, exploring new tech, and contributing to meaningful projects. 
 
 ## 🧩 Tech Stack
-- **Languages**:  
+
+### **Languages**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -13,7 +14,7 @@ I'm a student specializing in *International Media and Computing* and currently 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![SQL](https://img.shields.io/badge/sql-%234C4C4C.svg?style=for-the-badge&logo=database&logoColor=white)  
 
-- **Frameworks & Tools**:  
+### **Frameworks & Tools**  
 ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 

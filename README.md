@@ -2,8 +2,7 @@
 
 ### 🌍 International Media and Computing Student | UI/UX & Fullstack Development Enthusiast  
 
-I'm a student specializing in *International Media and Computing*, passionate about **building modern web applications with a strong focus on UI/UX design**. As I transition from frontend development to fullstack engineering, I’m eager to apply my skills in an **Intern (f/m/d) - UI/UX Developer for modern Web-Apps** role.  
-
+I'm a student specializing in *International Media and Computing*, passionate about **building modern web applications with a strong focus on UI/UX design**. 
 I love designing **interactive, scalable, and user-friendly** web experiences while continuously exploring new technologies.  
 
 ## 🧩 Tech Stack  

@@ -35,9 +35,9 @@ I love designing **interactive, scalable, and user-friendly** web experiences wh
 
 ## 🎨 UI/UX & Fullstack Journey  
 
-With my background in frontend development, I’m expanding my expertise in **Node.js, Express, and cloud technologies** to bridge the gap between frontend and backend. Additionally, I’m passionate about **user-centered design** and how well-crafted interfaces improve user experiences.  
+I specialize in frontend development and UI/UX design, creating interactive, user-friendly web experiences with React, Vue.js, and Tailwind CSS. Now, I’m expanding into full-stack development with Node.js, Express, and databases to bridge the gap between design and functionality.
+I’m passionate about human-centered design, modern web technologies, and building seamless digital experiences. Always learning, always creating—let’s build something great! 
 
-I’m actively seeking opportunities to work on **modern web apps** where I can combine **technical development with UX/UI principles** to build seamless, intuitive, and accessible applications.  
 
 ## 🌐 Connect with Me!  
 

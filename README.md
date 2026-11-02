@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm Nicole  
 
-### 🌍 International Media and Computing Student | UI/UX & Fullstack Development Enthusiast  
+### 🌍 International Media and Computing Student | Fullstack Development Enthusiast  
 
 I'm a student specializing in *International Media and Computing*, passionate about **building modern web applications with a strong focus on UI/UX design**. 
 I love designing **interactive, scalable, and user-friendly** web experiences while continuously exploring new technologies.  
@@ -32,11 +32,6 @@ I love designing **interactive, scalable, and user-friendly** web experiences wh
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-
-## 🎨 UI/UX & Fullstack Journey  
-
-I specialize in frontend development and UI/UX design, creating interactive, user-friendly web experiences with React, Vue.js, and Tailwind CSS. Now, I’m expanding into full-stack development with Node.js, Express, and databases to bridge the gap between design and functionality.
-I’m passionate about human-centered design, modern web technologies, and building seamless digital experiences. Always learning, always creating—let’s build something great! 
 
 
 ## 🌐 Connect with Me!  
